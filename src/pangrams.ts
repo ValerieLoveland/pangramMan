@@ -1,7 +1,7 @@
 import { number } from "prop-types";
 
 const pangramArray1 = [
-  "T",
+  "t",
   " ",
   "h",
   " ",
@@ -175,7 +175,7 @@ let dashArray1 = [
 ];
 
 const pangramArray2 = [
-  "W",
+  "w",
   " ",
   "a",
   " ",
@@ -187,7 +187,7 @@ const pangramArray2 = [
   " ",
   " ",
   " ",
-  "J",
+  "j",
   " ",
   "e",
   " ",
@@ -205,7 +205,7 @@ const pangramArray2 = [
   " ",
   " ",
   " ",
-  "A",
+  "a",
   " ",
   "l",
   " ",
@@ -215,7 +215,7 @@ const pangramArray2 = [
   " ",
   " ",
   " ",
-  "T",
+  "t",
   " ",
   "r",
   " ",
@@ -239,9 +239,9 @@ const pangramArray2 = [
   " ",
   " ",
   " ",
-  "T",
+  "t",
   " ",
-  "V",
+  "v",
   " ",
   " ",
   " ",
@@ -353,7 +353,7 @@ let dashArray2 = [
   "_"
 ];
 const pangramArray3 = [
-  "S",
+  "s",
   " ",
   "p",
   " ",
